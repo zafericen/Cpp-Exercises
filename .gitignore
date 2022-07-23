@@ -20,3 +20,6 @@
 .vs/Cpp-Exercises/v17/.suo
 *.db
 Project1/.vs/Project1/v17/.suo
+*.opendb
+*.db-shm
+*.db-wal
