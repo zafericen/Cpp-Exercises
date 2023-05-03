@@ -1,0 +1,6 @@
+﻿  CoffeeShop.cpp
+C:\Users\zafer\OneDrive\Masaüstü\Cpp\Assignment3\CoffeeShop.cpp(278,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+C:\Users\zafer\OneDrive\Masaüstü\Cpp\Assignment3\CoffeeShop.cpp(182): warning C4715: 'CoffeeShop::action_selector': not all control paths return a value
+  Assignment3.vcxproj -> C:\Users\zafer\OneDrive\Masaüstü\Cpp\Assignment3\x64\Debug\Assignment3.exe
